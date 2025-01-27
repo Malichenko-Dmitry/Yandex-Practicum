@@ -130,3 +130,45 @@
 ***
 
 </details>
+
+### Процесс работы:
+<details>
+<summary> 1 Подготовка чек-листа на вёрстку полей </summary> 
+
+***
+
+##### 1.1 форма бронирования элементы на навигационной карте: это иконки автомобилей и действия с ними:
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1HgR-ElM7J6nnU6Z4ZzNECNFt1CZEpAajLHopeOJQrz0/edit?gid=899462569#gid=899462569)
+
+***
+
+</details>
+
+<details>
+<summary> 2 Подготовить чек-лист и тест-кейсы на логику работы окон </summary> 
+
+***
+
+##### 2.1 чек-лист на логику окон «Способ оплаты» и «Добавление карты»:
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1HgR-ElM7J6nnU6Z4ZzNECNFt1CZEpAajLHopeOJQrz0/edit?gid=1540435533#gid=1540435533)
+
+##### 2.2 тест-кейсы на кнопку «Забронировать»:
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1HgR-ElM7J6nnU6Z4ZzNECNFt1CZEpAajLHopeOJQrz0/edit?gid=1567345705#gid=1567345705)
+
+***
+
+</details>
+
+<details>
+<summary> 3 Протестировать приложение и завести баг-репорты </summary> 
+
+***
+
+##### 3.1 баг-репорты в YouTrack:
+- [Баг-репорты](https://dmitrymalichenko.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20%7BSprint%202%7D)
+- [Ссылка на папку со скриншотами](https://disk.yandex.ru/client/disk/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B%2C%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202%20%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B0%20%D0%9C%D0%B0%D0%BB%D0%B8%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2019%20%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%B0%20)
+
+
+***
+
+</details>
