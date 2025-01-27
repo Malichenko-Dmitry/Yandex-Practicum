@@ -50,14 +50,14 @@
 
 #### 2 Тестирование расчета стоимости и времени поездки на собственном автомобиле
 ##### 2.1 Провести тест-анализ требований расчёта времени и стоимости маршрута на собственном автомобиле:
-- [Тест-анализ](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1610041137#gid=1610041137)
+- [Тест-анализ(выделено синим цветом)](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1610041137#gid=1610041137)
 
 ##### 2.2 Применить технику тест-дизайна «Классы эквивалентности» и создать набор тест-кейсов на проверку правильности расчета времени и стоимости поездки на собственном автомобиле:
-- [Классы эквивалентности и граничные значения](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1304990855#gid=1304990855)
+- [Классы эквивалентности и граничные значения(выделено синим цветом)](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1304990855#gid=1304990855)
 
-- [Наборы тест-кейсов](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1524919368#gid=1524919368)
+- [Наборы тест-кейсов(выделено синим цветом)](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1524919368#gid=1524919368)
 ##### 2.3 Протестировать расчеты и завести баг-репорты, если есть баги:
-- [Баг-репорты](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=454479584#gid=454479584)
+- [Баг-репорты(выделено синим цветом)](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=454479584#gid=454479584)
 
 ***
 
