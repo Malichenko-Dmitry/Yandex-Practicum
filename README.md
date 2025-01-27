@@ -36,19 +36,27 @@
 
 ### Процесс работы:
 
-#### 1 Тестирование валидации полей в форме
+<details>
+<summary> 1 Тестирование валидации полей в форме </summary> 
+
 ##### 1.1 Провести тест-анализ требований на валидацию полей:
-- [Тест-анализ](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1610041137#gid=1610041137)
+- [Тест-анализ(без выделения цветом)](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1610041137#gid=1610041137)
 
 ##### 1.2 Создать набор тест-кейсов на проверку валидации полей формы Яндекс Маршрутов. Примени техники тест-дизайна: классы эквивалентности и граничные значения:
-- [Классы эквивалентности и граничные значения](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1304990855#gid=1304990855)
+- [Классы эквивалентности и граничные значения(без выделения цветом)](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1304990855#gid=1304990855)
 
-- [Наборы тест-кейсов](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1524919368#gid=1524919368)
+- [Наборы тест-кейсов(без выделения цветом)](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1524919368#gid=1524919368)
 
 ##### 1.3 Протестировать валидацию полей и завести баг-репорты:
-- [Баг-репорты](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=454479584#gid=454479584)
+- [Баг-репорты(без выделения цветом)](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=454479584#gid=454479584)
 
-#### 2 Тестирование расчета стоимости и времени поездки на собственном автомобиле
+***
+
+</details>
+
+<details>
+<summary> 2 Тестирование расчета стоимости и времени поездки на собственном автомобиле </summary> 
+
 ##### 2.1 Провести тест-анализ требований расчёта времени и стоимости маршрута на собственном автомобиле:
 - [Тест-анализ(выделено синим цветом)](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1610041137#gid=1610041137)
 
@@ -58,6 +66,10 @@
 - [Наборы тест-кейсов(выделено синим цветом)](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=1524919368#gid=1524919368)
 ##### 2.3 Протестировать расчеты и завести баг-репорты, если есть баги:
 - [Баг-репорты(выделено синим цветом)](https://docs.google.com/spreadsheets/d/1R2X8VanBO6zNska67aCxbNWuKUFtL_dWRNr8Namsnn4/edit?gid=454479584#gid=454479584)
+
+***
+
+</details>
 
 ***
 
