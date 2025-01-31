@@ -420,3 +420,42 @@
 ***
 
 </details>
+
+### Процесс работы:
+<details>
+<summary> Задание 1: тестирование веб-приложения Яндекс.Самокат </summary> 
+
+***
+
+- [Чек-лист по требованиям к экрану «Статус заказа»](https://docs.google.com/spreadsheets/d/1ecIrtoaHAJSNwUp8akYjMQ8qqS8SlJeu_oev9DPzrs8/edit?gid=943703744#gid=943703744)
+- [Проверки экрана «Сделать заказ» на валидацию полей](https://docs.google.com/spreadsheets/d/1ecIrtoaHAJSNwUp8akYjMQ8qqS8SlJeu_oev9DPzrs8/edit?gid=1540465171#gid=1540465171)
+- [Баги вне тестовой документации](https://docs.google.com/spreadsheets/d/1ecIrtoaHAJSNwUp8akYjMQ8qqS8SlJeu_oev9DPzrs8/edit?gid=1539613303#gid=1539613303)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/1d8FDF9wREn8jQRRrpTaDsiEzJ29kTa1lguBQGkhwxvc/edit?gid=1186534874#gid=1186534874)
+
+***
+
+</details>
+
+<details>
+<summary> Задание 2: тестирование мобильного приложения Яндекс.Самокат </summary> 
+
+***
+
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1ecIrtoaHAJSNwUp8akYjMQ8qqS8SlJeu_oev9DPzrs8/edit?gid=424948590#gid=424948590)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/1d8FDF9wREn8jQRRrpTaDsiEzJ29kTa1lguBQGkhwxvc/edit?gid=1698427932#gid=1698427932)
+
+***
+
+</details>
+
+<details>
+<summary> Задание 3: тестирование API Яндекс.Самокат </summary> 
+
+***
+
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1ecIrtoaHAJSNwUp8akYjMQ8qqS8SlJeu_oev9DPzrs8/edit?gid=336872680#gid=336872680)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/1d8FDF9wREn8jQRRrpTaDsiEzJ29kTa1lguBQGkhwxvc/edit?gid=1587705626#gid=1587705626)
+
+***
+
+</details>
